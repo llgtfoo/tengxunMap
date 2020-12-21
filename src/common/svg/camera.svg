@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>摄像头</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD7A9" offset="0%"></stop>
+            <stop stop-color="#FF9B00" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.2375,7.8875 L2.2375,6.1984375 L1,5.9484375 L1,11.3671875 L2.2375,10.9203125 L2.2375,9.03125 L4.2390625,9.03125 L5.3375,7.490625 L3.9109375,6.696875 L3.525,7.8890625 L2.2375,7.8875 Z M13,6.1953125 L3.8796875,0 L2.825,0 L1.384375,2.3484375 L1.384375,3.146875 L9.3984375,8.19375 L10.0671875,8.19375 L10.0671875,8.1453125 L13,6.1984375 L13,6.1953125 L13,6.1953125 Z M2.1,3.965625 L1.3859375,4.778125 L9.35,9.9140625 L10.0703125,9.9140625 L10.45,9.5078125 L10.8296875,8.3375 C10.8296875,8.3375 9.78125,9.15 9.7375,9.15 C9.496875,8.9765625 9.240625,8.8234375 8.9734375,8.6921875 L2.1,3.965625 Z" id="path-2"></path>
+        <filter x="-58.3%" y="-44.0%" width="216.7%" height="223.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.119919143 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="网格地图-网格员-列表" transform="translate(-1074.000000, -84.000000)" fill-rule="nonzero">
+            <g id="功能控件" transform="translate(917.000000, 72.000000)">
+                <g id="统计备份-3" transform="translate(160.000000, 14.000000)">
+                    <g id="摄像头">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
